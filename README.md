@@ -1,12 +1,7 @@
 <p align="center">
-  <img
-    src="profile.jpg"
-    width="180"
-    height="180"
-    alt="Harshith K"
-    style="object-fit: cover;"
-  />
+  <img src="profile.jpg" width="160" alt="Harshith K" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Harshith K</h1>
 <h3 align="center">Computer Science (Data Science) Student | Aspiring Software Developer</h3>
