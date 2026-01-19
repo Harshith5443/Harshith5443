@@ -1,12 +1,18 @@
 <p align="center">
-  <img src="profile.jpg" width="160" alt="Harshith K" />
+  <img 
+    src="profile.jpg" 
+    width="160" 
+    height="160" 
+    style="border-radius: 50%; object-fit: cover;" 
+    alt="Harshith K"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshith K</h1>
 <h3 align="center">Computer Science (Data Science) Student | Aspiring Software Developer</h3>
 
 <p align="center">
-📍 Puttur, Karnataka  
+📍 Puttur, Karnataka
 </p>
 
 ---
