@@ -4,9 +4,10 @@
     width="180"
     height="180"
     alt="Harshith K"
-    style="border-radius: 50%; object-fit: cover;"
+    style="object-fit: cover;"
   />
 </p>
+
 <h1 align="center">Hi 👋, I'm Harshith K</h1>
 <h3 align="center">Computer Science (Data Science) Student | Aspiring Software Developer</h3>
 
