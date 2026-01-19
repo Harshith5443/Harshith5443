@@ -3,8 +3,8 @@
     src="profile.jpg" 
     width="160" 
     height="160" 
-    style="border-radius: 50%; object-fit: cover;" 
-    alt="Harshith K"
+    style="border-radius:50%; object-fit:cover;" 
+    alt="Profile Photo"
   />
 </p>
 
