@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshith K</h1>
-<h3 align="center">Data Science Student</h3>
+<h3 align="center">😀 Data Science Student</h3>
 
 <p align="center">
 📍 Puttur, Karnataka  
