@@ -2,12 +2,11 @@
   <img src="profile.jpg" width="160" alt="Harshith K" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Harshith K</h1>
-<h2 align="center">Data Science Student</h2>
+<h3 align="center">Computer Science (Data Science) Student | Aspiring Software Developer</h3>
 
 <p align="center">
-📍 Dharmastala, Karnataka
+📍 Puttur, Karnataka  
 </p>
 
 ---
