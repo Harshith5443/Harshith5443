@@ -7,7 +7,7 @@
 <h3 align="center">Computer Science (Data Science) Student | Aspiring Software Developer</h3>
 
 <p align="center">
-📍 Puttur, Karnataka
+📍 Dharmastala, Karnataka
 </p>
 
 ---
